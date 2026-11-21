@@ -8,7 +8,7 @@ Informatics student at **President University**. I write software across a few l
 
 ### Stack
 
-| | |
+| Area | Tools |
 |---|---|
 | **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,html,css" alt="JavaScript, TypeScript, Python, Java, C#, HTML, CSS" /> |
 | **Backend & data** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB, MySQL" /> |
@@ -38,12 +38,12 @@ Informatics student at **President University**. I write software across a few l
 ### Activity
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditpmkas&bg_color=0d1117&color=c9d1d9&line=6366f1&point=a5b4fc&area=true&area_color=6366f1&hide_border=true&radius=6" width="100%" alt="Contribution activity graph for aditpmkas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditpmkas&theme=github_dark" width="100%" alt="Contribution history for aditpmkas" />
 </p>
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=aditpmkas&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a5b4fc&icon_color=6366f1&text_color=c9d1d9" alt="GitHub stats for aditpmkas" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditpmkas&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9" alt="Most used languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditpmkas&layout=compact&langs_count=8&hide=shaderlab,hlsl,glsl&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9" alt="Most used languages" />
 </p>
 
 <p>

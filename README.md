@@ -1,6 +1,6 @@
 ## Hi, I'm Aditya
 
-Informatics student at **President University**. I write software across a few layers: web backends, Android apps, data processing scripts, and real-time 3D/VR apps in Unity. I care most about how things work under the hood, and I like code that is small and easy to change.
+Informatics student at **President University**. Most of my work is real-time 3D and VR in Unity. For coursework I've also built web backends, Android apps, and data scripts. I care most about how things work under the hood, and I like code that is small and easy to change.
 
 <a href="https://www.linkedin.com/in/adityapamungkas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:aditya.pamungkas.sdn@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -12,28 +12,27 @@ Informatics student at **President University**. I write software across a few l
 |---|---|
 | **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,html,css" alt="JavaScript, TypeScript, Python, Java, C#, HTML, CSS" /> |
 | **Backend & data** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB, MySQL" /> |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" /> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=unity" alt="Unity" /> |
 | **3D & XR** | <img src="https://skillicons.dev/icons?i=unity,blender" alt="Unity, Blender" /> |
-| **Tooling** | <img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode" alt="Docker, Git, GitHub, Figma, VS Code" /> |
+| **Tooling** | <img src="https://skillicons.dev/icons?i=docker,github,figma,vscode" alt="Docker, GitHub, Figma, VS Code" /> |
 
 ### Selected work
-
-**Web & backend**
-- [Docker-Project](https://github.com/aditpmkas/Docker-Project): finance app with an Express 5 + Mongoose API, a Handlebars frontend, and MongoDB, all wired together with Docker Compose.
-- [OnlineShop](https://github.com/aditpmkas/OnlineShop): team e-commerce site with a MySQL catalogue, orders, and users. I worked on UI/UX and feature updates.
-- [Canteen-Food-Finder](https://github.com/aditpmkas/Canteen-Food-Finder) and [Wumpus](https://github.com/aditpmkas/Wumpus): plain JavaScript apps, one a food finder and one the classic Wumpus-world logic puzzle.
-
-**Mobile**
-- [Pinterest](https://github.com/aditpmkas/Pinterest) and [pint](https://github.com/aditpmkas/pint): Android apps in Java with fragments, auth screens, chat/inbox, and image feeds.
-
-**Data & systems**
-- [Finall_DPS](https://github.com/aditpmkas/Finall_DPS): benchmarks sequential, threaded, and multiprocessing sorting and filtering on a large trip dataset with pandas.
 
 **Games & XR (Unity, C#)**
 - [Mattel_5S](https://github.com/aditpmkas/Mattel_5S): *3S Quest*, a VR training app for PT Mattel Indonesia that teaches 5S workplace organization.
 - [VR-AR-Training-Molca](https://github.com/aditpmkas/VR-AR-Training-Molca): industrial VR/AR training.
 - [El.Vector3-ez](https://github.com/aditpmkas/El.Vector3-ez): *Outbreak*, zombie AI built on a NavMesh and a state machine (idle, chase, attack, death).
 - [RATURU: Home Fever](https://github.com/barnimd/Raturu-Home-Fever-GIMJAMProject-): one-week game jam horror game with Buzzy Wizzy Studio.
+
+**Campus assignments**
+
+Smaller apps built for university courses:
+- [Docker-Project](https://github.com/aditpmkas/Docker-Project): finance tracker on Express, MongoDB, and Docker Compose.
+- [OnlineShop](https://github.com/aditpmkas/OnlineShop): team e-commerce site with MySQL.
+- [Wumpus](https://github.com/aditpmkas/Wumpus): Wumpus-world puzzle in JavaScript.
+- [Canteen-Food-Finder](https://github.com/aditpmkas/Canteen-Food-Finder): canteen food finder in plain JavaScript.
+- [Pinterest](https://github.com/aditpmkas/Pinterest) and [pint](https://github.com/aditpmkas/pint): Android apps in Java.
+- [Finall_DPS](https://github.com/aditpmkas/Finall_DPS): Python benchmark comparing threading and multiprocessing.
 
 ### Activity
 
@@ -43,7 +42,7 @@ Informatics student at **President University**. I write software across a few l
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=aditpmkas&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a5b4fc&icon_color=6366f1&text_color=c9d1d9" alt="GitHub stats for aditpmkas" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditpmkas&layout=compact&langs_count=8&hide=shaderlab,hlsl,glsl&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9" alt="Most used languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditpmkas&layout=compact&langs_count=8&hide=shaderlab,hlsl,glsl,hack,mathematica&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9" alt="Most used languages" />
 </p>
 
 <p>
